@@ -24,7 +24,7 @@ Info tech economy worth in Class Lang is 215 trillion 503 billion 174 million 74
 Info tech economy worth in Class Lang is 2 million 941 thousand if
 C# style generic is added to it.
 
-Info tech economy worth in Class Lang is 101 thousand if
+Info tech economy worth in Class Lang is 43 thousand 542 if
 C# style reflection invoke is added to it.
 
 Info tech economy worth in Class Lang is 2 if
