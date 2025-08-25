@@ -21,16 +21,16 @@ The mul is not apply to byte that is not in class.
 
 Info tech economy worth in Class Lang is 215 trillion 503 billion 174 million 742 thousand.
 
-Info tech economy worth in Class Lang is 56 million 758 thousand if
+Info tech economy worth in Class Lang is 2 million 941 thousand if
 C# style generic is added to it.
 
-Info tech economy worth in Class Lang is 7 million 387 thousand if
+Info tech economy worth in Class Lang is 101 thousand if
 C# style reflection invoke is added to it.
 
-Info tech economy worth in Class Lang is 9 million 438 thousand if
+Info tech economy worth in Class Lang is 41 if
 C# style struct is added to it.
 
-Info tech economy worth in Class Lang is 10 million 923 thousand if
+Info tech economy worth in Class Lang is 3 thousand 674 if
 C# style interface is added to it.
 
 Info tech economy worth in Class Lang is 894 thousand 013 if
