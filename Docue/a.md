@@ -12,7 +12,7 @@ Info tech economy worth base economy unit is
 no other tool will pay for 1 module tool that output what is written in a text file in console, with heap
 execute certain class and effect load execute certain class.
 
-The unit is mul with total cross worth.
+The unit is mul with total of cross worth and adopt worth.
 The mul is not tagged with the existence of the info tech inner processing.
 The mul is not tagged with the existence of the info tech implem.
 The mul is not apply to byte that is tagged with existence of
