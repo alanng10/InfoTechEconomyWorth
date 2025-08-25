@@ -18,3 +18,20 @@ The mul is not tagged with the existence of the info tech implem.
 The mul is not apply to byte that is tagged with existence of
 any inner processing orn any implem.
 The mul is not apply to byte that is not in class.
+
+Info tech economy worth in Class Lang is 5 billion 728 million 941 thousand.
+
+Info tech economy worth in Class Lang is 56 million 758 thousand if
+C# style generic is added to it.
+
+Info tech economy worth in Class Lang is 7 million 387 thousand if
+C# style reflection invoke is added to it.
+
+Info tech economy worth in Class Lang is 9 million 438 thousand if
+C# style struct is added to it.
+
+Info tech economy worth in Class Lang is 10 million 923 thousand if
+C# style interface is added to it.
+
+Info tech economy worth in Class Lang is 894 thousand 013 if
+C# style all generic, reflection invoke, struct and interface is added to it.
