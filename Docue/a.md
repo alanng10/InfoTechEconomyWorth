@@ -35,3 +35,23 @@ C# style interface is added to it.
 
 Info tech economy worth in Class Lang is 0 if
 C# style all generic, reflection invoke, struct and interface is added to it.
+
+ClassB is Class Lang that execute certain info is missing in class, except
+that operate tier info is present.
+
+Info tech economy worth in ClassB is 1 billion 392 million 073 thousand.
+
+Info tech economy worth in ClassB is 3 million 043 thousand if
+C# style generic is added to it.
+
+Info tech economy worth in ClassB is 621 thousand if
+C# style reflection invoke is added to it.
+
+Info tech economy worth in ClassB is 925 thousand if
+C# style struct is added to it.
+
+Info tech economy worth in ClassB is 1 million 214 thousand if
+C# style interface is added to it.
+
+Info tech economy worth in ClassB is 57 thousand 963 if
+C# style all generic, reflection invoke, struct and interface is added to it.
