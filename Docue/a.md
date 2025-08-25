@@ -55,3 +55,22 @@ C# style interface is added to it.
 
 Info tech economy worth in ClassB is 0 if
 C# style all generic, reflection invoke, struct and interface is added to it.
+
+ClassC is Class Lang that execute certain info is missing in class.
+
+Info tech economy worth in ClassC is 0.
+
+Info tech economy worth in ClassC is 0 if
+C# style generic is added to it.
+
+Info tech economy worth in ClassC is 0 if
+C# style reflection invoke is added to it.
+
+Info tech economy worth in ClassC is 0 if
+C# style struct is added to it.
+
+Info tech economy worth in ClassC is 0 if
+C# style interface is added to it.
+
+Info tech economy worth in ClassC is 0 if
+C# style all generic, reflection invoke, struct and interface is added to it.
