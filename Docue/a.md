@@ -27,10 +27,10 @@ C# style generic is added to it.
 Info tech economy worth in Class Lang is 101 thousand if
 C# style reflection invoke is added to it.
 
-Info tech economy worth in Class Lang is 41 if
+Info tech economy worth in Class Lang is 2 if
 C# style struct is added to it.
 
-Info tech economy worth in Class Lang is 3 thousand 673 if
+Info tech economy worth in Class Lang is 45 if
 C# style interface is added to it.
 
 Info tech economy worth in Class Lang is 0 if
