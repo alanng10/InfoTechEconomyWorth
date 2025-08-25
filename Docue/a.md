@@ -30,7 +30,7 @@ C# style reflection invoke is added to it.
 Info tech economy worth in Class Lang is 2 if
 C# style struct is added to it.
 
-Info tech economy worth in Class Lang is 45 if
+Info tech economy worth in Class Lang is 6 if
 C# style interface is added to it.
 
 Info tech economy worth in Class Lang is 0 if
