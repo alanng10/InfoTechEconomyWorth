@@ -19,7 +19,7 @@ The mul is not apply to byte that is tagged with existence of
 any inner processing orn any implem.
 The mul is not apply to byte that is not in class.
 
-Info tech economy worth in Class Lang is 5 billion 728 million 941 thousand.
+Info tech economy worth in Class Lang is 215 trillion 503 billion 174 million 742 thousand.
 
 Info tech economy worth in Class Lang is 56 million 758 thousand if
 C# style generic is added to it.
