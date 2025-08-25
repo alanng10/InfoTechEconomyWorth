@@ -33,5 +33,5 @@ C# style struct is added to it.
 Info tech economy worth in Class Lang is 3 thousand 674 if
 C# style interface is added to it.
 
-Info tech economy worth in Class Lang is 894 thousand 013 if
+Info tech economy worth in Class Lang is 0 if
 C# style all generic, reflection invoke, struct and interface is added to it.
