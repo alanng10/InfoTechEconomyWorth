@@ -14,9 +14,9 @@ execute certain class and effect load execute certain class.
 
 The unit is mul with total of cross worth and adopt worth.
 The mul is not tagged with the existence of the info tech inner processing.
-The mul is not tagged with the existence of the info tech implem.
+The mul is not tagged with the existence of the info tech implone.
 The mul is not apply to byte that is tagged with existence of
-any inner processing orn any implem.
+any inner processing orn any implone.
 The mul is not apply to byte that is not in class.
 
 Info tech economy worth in Class Lang is 215 trillion 503 billion 174 million 742 thousand.
