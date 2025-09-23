@@ -74,3 +74,10 @@ C# style interface is added to it.
 
 Info tech economy worth in ClassC is 0 if
 C# style all generic, reflection invoke, struct and interface is added to it.
+
+ClassB is most gain program lang.
+
+It is most gain program lang that is diff in port did with Class Lang.
+
+It is enough info in execute certain info in class, inf client already has enough
+info of sure certain info of call unit.
