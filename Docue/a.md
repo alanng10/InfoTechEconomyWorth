@@ -82,6 +82,8 @@ It is most gain program lang that is diff in port did with Class Lang.
 It is enough info in execute certain info in class, inf client already has enough
 info of sure certain info of call unit.
 
+ClassB has same plat worth as Class Lang.
+
 ClassB has more high require to realize all gain from most gain program lang than
 Class Lang.
 
